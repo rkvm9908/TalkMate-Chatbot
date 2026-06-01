@@ -1,6 +1,6 @@
 # TalkMate – Interactive Rule-Based Chatbot
 
-TalkMate is a responsive rule-based chatbot built using React.js and JavaScript.  
+TalkMate is a responsive, rule-based chatbot built using React.js and JavaScript.  
 It provides real-time conversational interaction with intelligent message matching and utility-based chatbot functionalities.
 
 ## Features
@@ -81,10 +81,6 @@ npm run build
 
 ## Live Demo
 
-Deployed using Netlify
-
-Add your deployed link here:
-
 [TalkMate Live Demo](https://talkmate-chatbot-rkvm.netlify.app/)
 
 ## Future Enhancements
@@ -99,5 +95,4 @@ Add your deployed link here:
 ## Author
 
 Mathuprasanth R K
-
 M.Sc. Information Technology
